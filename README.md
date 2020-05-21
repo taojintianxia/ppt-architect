@@ -1,2 +1,5 @@
 # ppt-architect
-architect should also focus on PPT ^_^
+
+## 想做架构师，先做 PPT 架构师 ^_^
+
+### 该仓库收集并整理了近期自己画的一些架构图，流程图等。并收集了一些优秀的 paper，希望自己能把这些 paper 都读了，并且在架构的理论上能有所提升，加油！
